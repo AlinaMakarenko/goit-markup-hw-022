@@ -1,0 +1,62 @@
+ul {
+    list-style: none;
+}
+
+.header {
+    background-color: var(--white-text); 
+    
+}
+.logo-blue {
+    color: var(--blue-text);
+}
+.logo-black {
+    color: var(--black-logo);
+}
+.list {
+    color: var(--black-text);
+}
+.list-address {
+    color: var(--gray-text);
+}
+.head {
+    background-color: var(--back-gray);
+}
+.hero {
+    color: var(--white-text);
+}
+.button {
+    color: var(--white-text);
+}
+.scroll-title {
+    color: var(--black-text);
+}
+.scroll-indent {
+    color: var(--gray-text);
+}
+.heading {
+    color: var(--black-text);
+}
+.team {
+    background-color: var(--back-white);
+}
+.name {
+    color: var(--black-text);
+}
+.vocation {
+    color: var(--gray-text);
+}
+.footer {
+    background-color: var(--back-gray);
+}
+.logo-white {
+    color: var(--white-text);
+}
+address {
+    font-style: normal;
+}
+.address-city {
+    color: var(--white-text);
+}
+.address-link {
+    color: var(--white-text-op-60);
+}
