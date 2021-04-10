@@ -28,8 +28,8 @@ img {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 26px;
-  line-height: 30, 52px;
-  letter-spacing: 0.03;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
 }
 
 .logo-blue:hover,
@@ -46,16 +46,16 @@ img {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 26px;
-  line-height: 30, 52px;
-  letter-spacing: 0.03;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
 }
 .list {
   color: var(--black-text);
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16.41px;
-  letter-spacing: 0, 02;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
 }
 .list:hover,
 :focus {
@@ -67,8 +67,8 @@ img {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16.41px;
-  letter-spacing: 0, 02;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
 }
 
 .list-address:hover,
@@ -82,9 +82,10 @@ img {
   color: var(--white-text);
   font-family: 'Roboto', sans-serif;
   font-weight: 900;
+  text-transform: uppercase;
   font-size: 44px;
-  line-height: 60px;
-  letter-spacing: 0, 04;
+  line-height: 1.36;
+  letter-spacing: 0.06em;
 }
 .button {
   color: var(--white-text);
@@ -92,8 +93,8 @@ img {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 16;
-  line-height: 30px;
-  letter-spacing: 0, 02;
+  line-height: 1.88;
+  letter-spacing: 0.06em;
 }
 .button:hover,
 :focus {
@@ -103,25 +104,26 @@ img {
   color: var(--black-text);
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
+  text-transform: uppercase;
   font-size: 14px;
-  line-height: 16.41px;
-  letter-spacing: 0, 02;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
 }
 .scroll-indent {
   color: var(--gray-text);
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
-  letter-spacing: 0, 03;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
 }
 .heading {
   color: var(--black-text);
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 36px;
-  line-height: 42.19px;
-  letter-spacing: 0, 05;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
 }
 .team {
   background-color: var(--back-white);
@@ -131,16 +133,16 @@ img {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
-  line-height: 18, 75px;
-  letter-spacing: 0, 03;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
 }
 .vocation {
   color: var(--gray-text);
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 18, 75px;
-  letter-spacing: 0, 03;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
 }
 
 .button-list {
@@ -149,8 +151,8 @@ img {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
-  letter-spacing: 0, 03;
+  line-height: 1.63;
+  letter-spacing: 0.03em;
 }
 .button-list:hover,
 :focus {
@@ -163,8 +165,8 @@ img {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
-  letter-spacing: 0, 02;
+  line-height: 2;
+  letter-spacing: 0.06em;
 }
 
 .list-title {
@@ -172,8 +174,8 @@ img {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
-  letter-spacing: 0, 04;
+  line-height: 1.88;
+  letter-spacing: 0.03em;
 }
 .footer {
   background-color: var(--back-gray);
@@ -183,8 +185,8 @@ img {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 26px;
-  line-height: 30, 52px;
-  letter-spacing: 0, 03;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
 }
 address {
   font-style: normal;
@@ -194,14 +196,14 @@ address {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
-  letter-spacing: 0, 03;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
 }
 .address-link {
   color: var(--white-text-op-60);
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
-  letter-spacing: 0, 03;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
 }
