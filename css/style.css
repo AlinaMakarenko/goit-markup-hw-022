@@ -125,8 +125,13 @@ img {
   line-height: 1.17;
   letter-spacing: 0.03em;
 }
-.team {
-  background-color: var(--back-white);
+.heading-team{
+  color: var(--black-text);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
 }
 .name {
   color: var(--black-text);
